@@ -16,13 +16,15 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/txtName"
-            android:hint="Name"/>
+            android:hint="Name"
+            android:textSize="100px"/>
 
         <EditText
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/txtAge"
-            android:hint="Age"/>
+            android:hint="Age"
+            android:textSize="100px"/>
 
         <Button
             android:layout_width="wrap_content"
