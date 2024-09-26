@@ -30,7 +30,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Goto next activity"
-            android:onClick="teleport"/>
+            android:onClick="teleport"
+            android:textSize="110px"/>
 
     </LinearLayout>
 
